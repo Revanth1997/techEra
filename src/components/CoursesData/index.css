@@ -1,0 +1,6 @@
+.course-link {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  color: #1e293b;
+}
